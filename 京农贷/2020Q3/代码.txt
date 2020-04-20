@@ -1,5 +1,5 @@
 2222
-CREATE TABLE IF NOT EXISTS cwaudit_app.dma_fr_ncjr_jnd_gmv_s_q20201231
+CREATE TABLE IF NOT EXISTS cwaudit_app.dma_fr_ncjr_jnd_gmv_s_q20210331
 (
   id                    BIGINT   COMMENT '主键',
   biz_month           STRING   COMMENT '业务月',
