@@ -1,4 +1,5 @@
 20200331
+
 create table if not exists cwaudit_app.dma_ifrs9_ncjr_jnd_first_s_m
 (   stat_dt           string  comment '数据提取日期',
     scource_src       string  comment '系统来源标识',
